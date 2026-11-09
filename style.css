@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(21, 49, 191);
+}
+h1 {
+    color: rgb(60, 60, 152);
+    font: 85px cooper black;
+    font-size: 70px;
+    text-align: center;
+    background-size: cover;
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+}
+h2 {
+    color: rgb(255, 255, 255);
+    font: 30px fantasy;
+    text-align: center;
+}
+p {
+    color: rgb(255, 255, 255);
+    font: 15px tahoma;
+    text-align: center;
+}
+h3 {
+    color: rgb(255, 255, 255);
+    font: 15px space mono;
+    text-align: start;
+}
+section {
+    text-align: center;
+    font: 14px tahoma;
+    color: antiquewhite;
+}
+aside {
+    color: antiquewhite;
+    text-align: start;
+    text-transform: unset;
+    background-position: top;
+}
+h3 {
+    color: antiquewhite;
+}
+a {
+    background-attachment: fixed;
+    color: antiquewhite;
+    text-decoration: none;
+}
+summary {
+    color: antiquewhite;
+}
+
+button[type="button"] {
+    color: rgb(2, 2, 2);
+    text-decoration: none;
+    background-color: rgb(21, 255, 0);
+}
