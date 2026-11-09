@@ -3,7 +3,7 @@ body {
 }
 h1 {
     color: rgb(60, 60, 152);
-    font: 85px cooper black;
+    font: 85px ALGERIAN;
     font-size: 70px;
     text-align: center;
     background-size: cover;
@@ -47,9 +47,8 @@ a {
 summary {
     color: antiquewhite;
 }
-
-button[type="button"] {
-    color: rgb(2, 2, 2);
-    text-decoration: none;
-    background-color: rgb(21, 255, 0);
+button[type="submit"] {
+    color: white;
+    background: green;
+    font: 15px bold;
 }
